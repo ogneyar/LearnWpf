@@ -1,0 +1,14 @@
+.vs
+*/.vs
+
+bin
+*/bin
+
+obj
+*/obj
+
+packages
+*/packages
+
+*.bat
+*/*.bat
